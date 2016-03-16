@@ -38,10 +38,63 @@
 
 - S3: It is not possible to define a policy at the object level
 
-- 
+- S3: The folders support only 
 
+- that all accounts on a consolidated bill can receive the hourly cost benefit of the Amazon EC2 Reserved Instances purchased by any other account
 
+- The user can add zones on the fly from the AWS console
+
+- The root account owner can set the policy from the IAM console under the password policy screen
+
+- You can use sequencing information on each message
+
+- S3 Object Access Policy - not the option to give permission
+
+- Client Order Preference - not the SSL option
+
+- auto scaling detailed monitor charge
+
+- free tier The user cannot use EBS encryption and has to encrypt the data manually or using a third party tool
+
+- Create a new Launch Config with detail monitoring enabled and update the Auto Scaling group
+
+- It will not allow to delete the VPC since it has a running NAT instance
+
+- elb-enable-zones-for-lb ()
+
+- VPC bounds the main route table with a private subnet and a custom route table with a public subnet
+
+- Use the Enable Enhanced Uploader option from the S3 console while uploading objects
+
+- Change the axis of Network by using the Switch command from the graph
+
+- Keep rotating the encryption key manually at the client side
 
 ====
 97
 100
+129
+131
+140
+163
+167
+169
+190
+197
+193
+207
+211
+214
+215*
+217*
+224
+226
+228
+241
+
+
+
+
+
+
+
